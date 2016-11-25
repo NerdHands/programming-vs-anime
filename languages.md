@@ -6,57 +6,182 @@ These characteristics will be used to as a guide for picking its anime character
 
 ## C Programming Language
 
-![](images/c.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/c.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 4%;">
+            <h3>C Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ## C++
 
-![](images/cplusplus.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/cplusplus.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 4%;">
+            <h3>C++ Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ## Python
 
-![](images/python.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/python.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 0%;">
+            <h3>Python Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ### PyPy
 
-![](images/pypy.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/pypy.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 0%;">
+            <h3>PyPy Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ## Java
 
-![](images/java.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/java.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 4%;">
+            <h3>Java Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ## C#
 
-![](images/csharp.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/csharp.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 4%;">
+            <h3>Csharp Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ## Ruby
 
-![](images/ruby.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/ruby.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 4%;">
+            <h3>Ruby Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ## PHP
 
-![](images/php.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/php.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 0%;">
+            <h3>PHP Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ## Go
 
-![](images/go.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/go.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 0%;">
+            <h3>Go Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ## JavaScript
 
-![](images/javascript.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/javascript.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 4%;">
+            <h3>JavaScript Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ### ReactJS
 
-![](images/reactjs.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/reactjs.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 2%;">
+            <h3>ReactJS Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ### AngularJS
 
-![](images/angularjs.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/angularjs.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 4%;">
+            <h3>AngularJS Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ### MithrilJS
 
-![](images/mithril.png)
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/mithril.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 4%;">
+            <h3>Mithril Programming</h3>
+        </td>
+    </tr>
+</table>
 
 ### NodeJS
 
-![](images/nodejs.png)
-
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <img src="images/nodejs.png" />
+        </td>
+        <td width="70%" style="vertical-align:top;padding-top: 4%;">
+            <h3>NodeJS Programming</h3>
+        </td>
+    </tr>
+</table>
