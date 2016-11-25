@@ -4,29 +4,29 @@ Here, we'll mention the languages that will be considered for this project. For 
 
 These characteristics will be used to as a guide for picking its anime character.
 
+## C#
+
+![C#](images/csharp.png)
+
 ## C Programming Language
 
-![](images/c.png)
+![C Logo](images/c.png)
 
 ## C++
 
-![](images/cplusplus.png)
+![C++](images/cplusplus.png)
 
 ## Python
 
-![](images/python.png)
+![Python](images/python.png)
 
 ### PyPy
 
-![](images/pypy.png)
+![PyPy](images/pypy.png)
 
 ## Java
 
-![](images/java.png)
-
-## C#
-
-![](images/csharp.png)
+![Java](images/java.png)
 
 ## Ruby
 
@@ -38,25 +38,25 @@ These characteristics will be used to as a guide for picking its anime character
 
 ## Go
 
-![](images/go.png)
+![Go](images/go.png)
 
 ## JavaScript
 
-![](images/javascript.png)
+![JavaScript](images/javascript.png)
 
 ### ReactJS
 
-![](images/reactjs.png)
+![ReactJS](images/reactjs.png)
 
 ### AngularJS
 
-![](images/angularjs.png)
+![AngularJS](images/angularjs.png)
 
 ### MithrilJS
 
-![](images/mithril.png)
+![MithrilJS](images/mithril.png)
 
 ### NodeJS
 
-![](images/nodejs.png)
+![NodeJS](images/nodejs.png)
 
