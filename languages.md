@@ -4,8 +4,10 @@ Here, we'll mention the languages that will be considered for this project. For 
 
 These characteristics will be used to as a guide for picking its anime character.
 
+
 ## C Programming Language
 
+<<<<<<< HEAD
 <table width="100%">
     <tr>
         <td width="30%">
