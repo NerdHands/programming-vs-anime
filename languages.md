@@ -7,7 +7,6 @@ These characteristics will be used to as a guide for picking its anime character
 
 ## C Programming Language
 
-<<<<<<< HEAD
 <table width="100%">
     <tr>
         <td width="30%">
@@ -128,7 +127,7 @@ These characteristics will be used to as a guide for picking its anime character
 <table width="100%">
     <tr>
         <td width="30%">
-            <img src="images/javascript.png" />
+            <img src="images/Javascript.png" />
         </td>
         <td width="70%" style="vertical-align:top;padding-top: 4%;">
             <h3>JavaScript Programming</h3>
