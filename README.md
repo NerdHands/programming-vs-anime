@@ -14,7 +14,7 @@ Really? If you have to ask this, I strongly suggest visiting [NarutoBase](http:/
 
 ## Is this limited to Japanese Manga and Anime?
 
-I hope not. There are well developed characters in various Animation and Comic Universes. If you find a comic or animation universe you would like to add, feel free.
+We hope not. There are well developed characters in various Animation and Comic Universes. If you find a comic or animation universe you would like to add, feel free.
 
 ## Anime List
 
@@ -31,3 +31,9 @@ Do you have reservations about an existing match? Create a [GitHub Issue](https:
 - Before you match a programming language to an anime character, there must be at least one matching characteristic of both the anime-character and the programming-language.
 
 - If at any time, a character in the same anime is shown to have more matching characteristics with a programming-language than its current matching anime-character, that character becomes the new match for that programming-language
+
+## Authors
+
+- Chilezie Unachukwu ([Github](github.com/chilas), [Twitter](twitter.com/iamchilas))
+
+- Ikechi Michael ([Github](github.com/mykeels), [Twitter](twitter.com/mykeels))
