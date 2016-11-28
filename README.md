@@ -20,6 +20,10 @@ We hope not. There are well developed characters in various Animation and Comic 
 
 - [Naruto](naruto.md)
 
+## Language List
+
+Check out the languages we match to anime characters [here](languages.md).
+
 ## Want to contribute?
 
 Do you have a programming-language to anime-character match you'd like to make? You could create a fork of this repository, add the match and make a pull request.
@@ -37,3 +41,5 @@ Do you have reservations about an existing match? Create a [GitHub Issue](https:
 - Chilezie Unachukwu ([Github](github.com/chilas), [Twitter](twitter.com/iamchilas))
 
 - Ikechi Michael ([Github](github.com/mykeels), [Twitter](twitter.com/mykeels))
+
+- You
